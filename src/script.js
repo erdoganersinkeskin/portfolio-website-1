@@ -6,3 +6,17 @@ function toggleButton() {
 }
 
 hamburgerButton.addEventListener('click', toggleButton)
+
+
+function say(message) {
+    console.log(message);
+}
+
+
+say("Hi!")
+
+
+// for (let index = 0; index < items. length; index++) {
+//     const element = items[ index];    
+// }
+
